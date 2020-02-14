@@ -1,4 +1,6 @@
 ---
 title: Administrative Circular
-permalink: /APER-2020/administrative-circular/
+permalink: /APER-2020/admin-circular/
 ---
+
+this is the admin page
